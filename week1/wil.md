@@ -41,7 +41,7 @@ start line + headers + body
 
 
 ### 2. 에러페이지 스크린샷
-![screenshot](./becap2.png)
+![screenshot](./image.png)
 
 ### 3. API 명세서 
 
